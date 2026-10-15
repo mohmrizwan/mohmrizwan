@@ -18,7 +18,9 @@
     <img src="https://img.shields.io/github/followers/mohmrizwan?label=Followers&style=for-the-badge&color=7C3AED" alt="GitHub Followers" />
   </a>
 </p>
-
+<a href="https://github.com/mohmrizwan/mohmrizwan/blob/main/rizwan-mern-stack-resume.pdf">
+    <img src="https://img.shields.io/badge/📄_View_My_Resume-Download_PDF-7C3AED?style=for-the-badge" alt="View My Resume" />
+  </a>
 ---
 
 ## 👨‍💻 About Me
@@ -30,6 +32,9 @@
 * 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, REST APIs, and Full-Stack Development**.
 * 🎯 My goal is to become a skilled software engineer and build impactful products.
 * 📫 Reach me at **[mohmrizwan10@gmail.com](mailto:mohmrizwan10@gmail.com)**.
+* <!-- Add this section after the Profile Views and Followers badges --><p align="center">
+  
+</p>
 
 ---
 
